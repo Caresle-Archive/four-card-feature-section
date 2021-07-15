@@ -30,8 +30,8 @@ Desktop version
 
 ### Links
 
-- URL para la solución: [Solution page]()
-- URL para probar el sitio: [Github pages]()
+- URL para la solución: [Solution page](https://www.frontendmentor.io/solutions/html-css-rOpnpiqIs)
+- URL para probar el sitio: [Github pages](https://caresle.github.io/four-card-feature-section/)
 
 ## Mi proceso
 

@@ -34,8 +34,8 @@ Desktop version
 
 ### Links
 
-- Solution URL: [Solution page]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Solution page](https://www.frontendmentor.io/solutions/html-css-rOpnpiqIs)
+- Live Site URL: [Github pages](https://caresle.github.io/four-card-feature-section/)
 
 ## My process
 
