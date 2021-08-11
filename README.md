@@ -58,3 +58,4 @@ I really like it and i want to see how many code can i re use in my next project
 
 - Frontend Mentor - [@Caresle](https://www.frontendmentor.io/profile/Caresle)
 - Instagram - [@caresle1](https://instagram.com/caresle1)
+- Twitter - [@caresle1](https://twitter.com/caresle1)
